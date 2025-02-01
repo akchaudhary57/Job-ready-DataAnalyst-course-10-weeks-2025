@@ -6,12 +6,9 @@
 
 The task is to build a senior management dashboard for C-suite such as CEO and CMO (Chief Marketing Officer). A sample insight could be ‘What are the long-term trend of sales turnover across different states’.
 
- 
- ![Snap_3](https://user-images.githubusercontent.com/102996550/174091618-bf770d6c-34c6-44d4-9f5e-49583a6d5f68.jpg)
- 
- - Step 18 : The report was then published to Power BI Service.
- 
- 
+## Dashboard
+ ![image](https://github.com/user-attachments/assets/5e8d32f5-2054-4d15-87ed-d3af4c7c0a0d)
+
 ![Publish_Message](https://user-images.githubusercontent.com/102996550/174094520-3a845196-97e6-4d44-8760-34a64abc3e77.jpg)
 
 # Snapshot of Dashboard (Power BI Service)
