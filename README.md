@@ -17,7 +17,7 @@ A single page report was created on Power BI Desktop & it was then published to 
 
 Following inferences can be drawn from the dashboard;
 
-### [1] Sales by Occupation: Customers with professional occupations accounted for 29.89% of total sales across the state, making them the largest contributor. Meanwhile, those in skilled manual labor roles contributed 24.8% of total sales, ranking as the second-highest segment.           
-### [2] Sales by Age Group: Among all customer age groups, individuals aged 55 and above generated the highest sales volume across the state, indicating strong purchasing trends within this demographic. 
-### [3] Profit by Product Category: Mountain Bikes emerged as the most profitable product category, contributing an 84.53% share of the total profit across the state. This highlights their dominance in terms of revenue generation.
-### [4] Monthly Profit Analysis: The month of October recorded the highest overall profit compared to other months, signifying peak sales performance during this period
+ [1] *Sales by Occupation:* Customers with professional occupations accounted for 29.89% of total sales across the state, making them the largest contributor. Meanwhile, those in skilled manual labor roles contributed 24.8% of total sales, ranking as the second-highest segment.           
+ [2] *Sales by Age Group:* Among all customer age groups, individuals aged 55 and above generated the highest sales volume across the state, indicating strong purchasing trends within this demographic. 
+ [3] *Profit by Product Category:* Mountain Bikes emerged as the most profitable product category, contributing an 84.53% share of the total profit across the state. This highlights their dominance in terms of revenue generation.
+ [4] *Monthly Profit Analysis:* The month of October recorded the highest overall profit compared to other months, signifying peak sales performance during this period
